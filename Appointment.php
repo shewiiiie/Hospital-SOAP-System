@@ -1,4 +1,4 @@
-<?php
+    <?php
 
 $host = "localhost";
 $user = "root"; 
@@ -226,6 +226,6 @@ if (!$result) {
 </html>
 
 <?php
-// Close the database connection
+
 $conn->close();
 ?>
